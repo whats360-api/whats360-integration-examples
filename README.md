@@ -15,6 +15,9 @@ flowchart LR
   W360b -->|JSON POST| CRM[Your CRM / database]
 ```
 
+## CRM and dashboard feature docs
+Dashboard-only features (bots, SMS gateway pages, Persona, external data sources, professional embedding, CRM statuses) are documented in [crm/](crm/README.md). They are descriptions of dashboard pages, not API endpoints or tested code.
+
 ## Examples
 | Use case | Route | File | Status |
 |---|---|---|---|
