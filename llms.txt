@@ -8,6 +8,7 @@
 - [Node.js client](https://github.com/whats360-api/whats360-nodejs-sdk)
 - [PHP client](https://github.com/whats360-api/whats360-php-sdk)
 - [Postman collection](https://github.com/whats360-api/whats360-postman-collection)
+- [CRM and dashboard feature docs](https://github.com/whats360-api/whats360-integration-examples/blob/main/crm/README.md): bots, SMS gateway pages, Persona, external data sources, professional embedding, CRM statuses (dashboard only, no API)
 
 ## Facts
 - API base URL: https://whats360.live/api/v1
