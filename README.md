@@ -31,4 +31,4 @@ Payment verification depends on your payment provider's own API. These examples 
 
 **Not live-tested** against whats360.live production. Not production-ready. No real sends were made. AI chatbot and lead automation: whats360.live documents AI bots in the dashboard only, so no coded example is published here yet.
 
-WhatsApp: https://wa.me/whats360.live · Direct chat support: https://wa.me/201030741766 · https://whats360.live
+WhatsApp: https://wa.me/whats360.live · Direct chat support: https://wa.me/201030741766 · https://whats360.live?utm_source=github&utm_medium=repo_readme&utm_campaign=growth30&utm_content=examples-footer
